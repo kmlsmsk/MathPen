@@ -52,7 +52,7 @@ Bu proje henüz Chrome Web Store'da yayınlanmamıştır. Tarayıcınıza yükle
 
 1.  Bu projeyi bilgisayarınıza indirin veya klonlayın:
     ```bash
-    git clone https://github.com/kullaniciadi/MathPen.git
+    git clone https://github.com/kmlsmsk/MathPen.git
     ```
 2.  Google Chrome tarayıcısını açın ve adres çubuğuna şunu yazın:
     `chrome://extensions/`
