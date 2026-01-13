@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "MathPen",
+  "version": "1.0",
+  "description": "Chrome için Gelişmiş Mühendislik ve Eğitim Çizim Aracı",
+  "permissions": ["activeTab", "scripting"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "MathPen"
+  },
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}
